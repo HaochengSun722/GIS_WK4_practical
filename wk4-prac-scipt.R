@@ -28,4 +28,4 @@ z <- 4+4
 #*important：但是文档内的内容不会发生改变，所以你可以通过diff来查看那次commit
 #*和当前文档的区别，并进行修改。
 
-#test git revert function.
+
