@@ -21,4 +21,11 @@ reprex(venue="r")
 
 x <- 1+1
 y <- 2+2
+z <- 4+4
+#*如果你已经stage并且commit过了，但没有push
+#*git reset --hard HEAD~1 命令可以帮助你退回到上一次commit的时期
+#*其中HEAD~1的1代表退回的次数，HEAD~2则代表退回两次commit前的状态。
+#*important：但是文档内的内容不会发生改变，所以你可以通过diff来查看那次commit
+#*和当前文档的区别，并进行修改。
+
 
