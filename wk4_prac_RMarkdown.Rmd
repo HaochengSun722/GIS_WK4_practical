@@ -73,3 +73,10 @@ ihist
 1.  如果不想在输出网页中出现运行结果，则在{}内添加eval=FALSE
 
 2.  如果不想在输出网页中出现code chunk，则在{}内添加echo = FALSE
+
+4.6.2 Flexdashboard
+
+```{r}
+library(flexdashboard)
+```
+
